@@ -2,7 +2,7 @@
 layout: book-review
 title: Catatan Sang Sahabat Alam
 author: Norman Edwin
-cover: assets/img/book_covers/norman_edwin.jpg
+cover: assets/img/book_covers/norman_edwin.jpeg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9789799102393 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: biography
