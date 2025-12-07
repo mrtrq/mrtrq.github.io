@@ -25,6 +25,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I have completed my undergraduate study in Computer Science at the University of Indonesia with a growing interest in remote sensing, machine learning, and environmental monitoring. 
+
+At the moment, I’m exploring research directions at the intersection of computer vision and Earth observation. My undergraduate thesis focused on predicting river water quality in urban areas using Sentinel-2 satellite imagery, which became my first real introduction to the possibilities of geospatial analytics. While I’m still learning the foundations, this project solidified my aspiration to become a researcher who can bridge scientific rigor with social impact.
+
+I’ve been fortunate to grow through roles inside and outside the classroom. As President of BEM Fasilkom UI 2024, a 160 member student-led organization, I learned how like minded people coexist, and how meaningful change often starts with empowering people. Through teaching Calculus I for three terms, I also learned the value of clarity—both in mathematical reasoning and in communication.
+
+My broader research interests include:
+
+- Remote sensing & geospatial ML — extracting environmental insights from satellite imagery
+
+- Machine learning for societal impact — especially in sustainability and local community contexts
+
+- Interdisciplinary systems — where technology, environment, and people converge
+
+Long term, I'd like to pursue graduate school and eventually contribute to research that advances environmental monitoring and supports data-driven decision-making in developing regions. I am fully aware I am still at the beginning, with much to learn and unlearn—but I’m committed to growing, exploring, and doing work that matters.
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
