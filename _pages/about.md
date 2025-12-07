@@ -26,17 +26,18 @@ latest_posts:
 
 I have completed my undergraduate study in Computer Science at the University of Indonesia with a growing interest in remote sensing, machine learning, and environmental monitoring. 
 
-At the moment, I’m exploring research directions at the intersection of computer vision and Earth observation. My undergraduate thesis focused on predicting river water quality in urban areas using Sentinel-2 satellite imagery, which became my first real introduction to the possibilities of geospatial analytics. While I’m still learning the foundations, this project solidified my aspiration to become a researcher who can bridge scientific rigor with social impact.
+At the moment, I’m exploring research directions at the intersection of computer vision and Earth observation. My undergraduate thesis, supervised by [Dr. Laksmita Rahadianti](https://cs.ui.ac.id/en/personnel/laksmita-rahadianti/), focused on predicting river water quality in urban areas using Sentinel-2 satellite imagery and machine learning models. This **remote sensing** research experience opened a new worldview as it was my first time working on the intersection of geospatial analytics, environmental monitoring, and computer science.
 
-I’ve been fortunate to grow through roles inside and outside the classroom. As President of BEM Fasilkom UI 2024, a 160 member student-led organization, I learned how like minded people coexist, and how meaningful change often starts with empowering people. Through teaching Calculus I for three terms, I also learned the value of clarity—both in mathematical reasoning and in communication.
+<!-- While I’m still learning the foundations, this project made me aspire to become a researcher who can bridge scientific rigor with social impact. -->
+I’ve been fortunate to grow through roles inside and outside the classroom. As President of BEM Fasilkom UI 2024, a 160 member student-led organization, I learned how like minded people coexist, and how meaningful change often starts with empowering people. Through teaching Calculus I for three terms (Aug. 2022- Jan. 2024), I also learned the value of clarity—both in mathematical reasoning and in communication.
 
-My broader research interests include:
+Other than my studies, you will find me photographing and stargazing.
 
-- Remote sensing & geospatial ML — extracting environmental insights from satellite imagery
+My **research interests** include:
 
-- Machine learning for societal impact — especially in sustainability and local community contexts
+- Remote sensing to monitor environmental insights from satellite imagery orbitting the Earth, namely Sentinel-2 and Landsat-8. The image of the Earth's surface area will give various relectance values on different wavelength which then can be derived into spectral indices.
 
-- Interdisciplinary systems — where technology, environment, and people converge
+- Fine tuning machine learning models by using in-situ measurement data as ground truth to better estimate any indicators of interest given a satellite image, namely water quality parameters, soil conditions, presence of vegetation, and urban growth.
 
 Long term, I'd like to pursue graduate school and eventually contribute to research that advances environmental monitoring and supports data-driven decision-making in developing regions. I am fully aware I am still at the beginning, with much to learn and unlearn—but I’m committed to growing, exploring, and doing work that matters.
 
