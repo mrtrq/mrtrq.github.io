@@ -2,17 +2,17 @@
 layout: book-review
 title: Sakamoto Days
 author: Yuto Suzuki
-cover: 
+cover: assets/img/book_covers/sakamoto_days.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 1974728943 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: fiction
 tags: manga
-# buy_link: https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592
-started: 2024-08-23
-finished: 2024-09-07
-# released: 1969
-# stars: 5
-# goodreads_review: 6318556633
+buy_link: 
+started: 2025-09-23
+finished: 
+released: 2020
+stars: 4.4
+goodreads_review: 
 status: Reading
 ---
 
