@@ -393,7 +393,17 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-sakamoto-days",
+      },{id: "books-the-elegant-universe",
+          title: 'The Elegant Universe',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/elegant_universe/";
+            },},{id: "books-catatan-sang-sahabat-alam",
+          title: 'Catatan Sang Sahabat Alam',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/norman_edwin/";
+            },},{id: "books-sakamoto-days",
           title: 'Sakamoto Days',
           description: "",
           section: "Books",handler: () => {
