@@ -418,6 +418,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "books-things-to-make-and-do-in-the-fourth-dimension",
+          title: 'Things to Make and Do in the Fourth Dimension',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/things_to_make_and_do_in_the_fourth_dimension/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -479,7 +484,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%74%61%72%72%65%71.%6D%61%75%6C%61%6E%61@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%6D%75%68%61%6D%6D%61%64.%74%61%72%72%65%71@%75%69.%61%63.%69%64", "_blank");
         },
       },{
       id: 'light-theme',
