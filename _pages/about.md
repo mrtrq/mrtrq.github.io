@@ -23,13 +23,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I have completed my undergraduate study in Computer Science at the University of Indonesia with a growing interest in remote sensing and machine learning.
 
-I have completed my undergraduate study in Computer Science at the University of Indonesia with a growing interest in remote sensing, machine learning, and environmental monitoring. 
-
-At the moment, I’m exploring research directions at the intersection of computer vision and Earth observation. My undergraduate thesis, supervised by [Dr. Laksmita Rahadianti](https://cs.ui.ac.id/en/personnel/laksmita-rahadianti/), focused on predicting river water quality in urban areas using Sentinel-2 satellite imagery and machine learning models. This **remote sensing** research experience opened a new worldview as it was my first time working on the intersection of geospatial analytics, environmental monitoring, and computer science.
+My undergraduate thesis, supervised by [Dr. Laksmita Rahadianti](https://cs.ui.ac.id/en/personnel/laksmita-rahadianti/), focused on predicting river water quality in urban areas using Sentinel-2 satellite imagery with the help of machine learning models. This research experience opened a new worldview as it was my first time working on the intersection of geospatial analytics, environmental monitoring, and computer science.
 
 <!-- While I’m still learning the foundations, this project made me aspire to become a researcher who can bridge scientific rigor with social impact. -->
-I’ve been fortunate to grow through roles inside and outside the classroom. As President of BEM Fasilkom UI 2024, a 160 member student-led organization, I learned how like minded people coexist, and how meaningful change often starts with empowering people. Through teaching Calculus I for three terms (Aug. 2022- Jan. 2024), I also learned the value of clarity—both in mathematical reasoning and in communication.
+I’ve been fortunate to grow through roles inside and outside the classroom. As President of BEM Fasilkom UI (2024), a 160 member student-led organization, I learned how like minded people coexist, and how meaningful change often starts with empowering people. Through teaching Calculus I for three terms (Aug. 2022- Jan. 2024), I also learned the value of clarity—both in mathematical reasoning and in communication.
 
 Other than my studies, you will find me photographing and stargazing.
 
