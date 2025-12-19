@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/2025-12-26-flight-tracking/";
           
         },
+      },{id: "post-introduction-to-remote-sensing",
+        
+          title: "Introduction to remote sensing",
+        
+        description: "remote sensing 101",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/remote-sensing/";
+          
+        },
       },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
