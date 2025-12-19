@@ -16,21 +16,17 @@ There are clear examples of things that are part of our daily life that invloves
 
 ### What kind of things remote sensing can do?
 Remote sensing can be a powerful tool that can be handy in certain situations. Below are two examples of what it can monitor:
-{% raw %}
-
-```liquid
 
 {% tabs rs-monitoring %}
 
-{% tab rs-monitoring water quality parameters %}
+{% tab rs-monitoring WQP %}
 
 Can be used throughout different types of rivers, such as urban river rural river areas
 {% endtab %}
 
-{% tab rs-monitoring soil conditions%}
+{% tab rs-monitoring soil-conditions%}
+
 Actual spatial-temporal analysis of soil conditions can be measured throughout the year by using satellite imagery that orbits our planet Earth
-
-
 {% endtab %}
 
 {% endtabs %}
@@ -42,6 +38,3 @@ There will be multiple wavelengths that a satelleite will give from a single ima
 [insert table]
 
 * note that the corresponding band number and wavelength may differ across different satellites
-
-{% endraw %}
-
