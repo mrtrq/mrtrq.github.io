@@ -7,6 +7,7 @@ tags: remote sensing
 categories: published-posts
 chart:
   plotly: true
+featured: true
 ---
 
 ### What is remote sensing?
