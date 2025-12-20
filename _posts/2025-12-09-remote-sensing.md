@@ -24,7 +24,7 @@ Remote sensing can be a powerful tool that can be handy in certain situations. B
 Can be used throughout different types of rivers, such as urban river rural river areas
 {% endtab %}
 
-{% tab rs-monitoring soil-conditions%}
+{% tab rs-monitoring soil-conditions %}
 
 Actual spatial-temporal analysis of soil conditions can be measured throughout the year by using satellite imagery that orbits our planet Earth
 {% endtab %}
