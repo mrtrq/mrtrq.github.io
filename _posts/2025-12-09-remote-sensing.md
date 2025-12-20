@@ -8,6 +8,7 @@ categories: published-posts
 chart:
   plotly: true
 featured: true
+tabs: true
 ---
 
 ### What is remote sensing?
