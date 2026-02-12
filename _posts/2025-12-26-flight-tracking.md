@@ -8,7 +8,6 @@ categories: idea dump
 ---
 
 
-
 There are hundreds of flights currently happening as you read this sentence, with thousands of passengers. My question is, do they remember their trips and fligts? 
 
 For one, they will remember such experience for the rest of their lifetime.
