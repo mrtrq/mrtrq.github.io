@@ -25,20 +25,20 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Under construction.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-",
+        },{id: "post-idea-flight-count",
         
-          title: "",
+          title: "idea-flight count",
         
-        description: "",
+        description: "what if you would not forget your flights",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2025-12-26-flight-tracking/";
+            window.location.href = "/blog/2025/flight-tracking/";
           
         },
       },{id: "post-introduction-to-remote-sensing",
