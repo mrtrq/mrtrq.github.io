@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-idea-flight-count",
+        },{id: "post-satellite-imagery-analysis-spectral-indices-explained",
+        
+          title: "Satellite Imagery Analysis - Spectral Indices Explained",
+        
+        description: "Deep dive into vegetation, water, and urban indices for satellite image analysis",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/spectral-indices/";
+          
+        },
+      },{id: "post-idea-flight-count",
         
           title: "idea-flight count",
         
