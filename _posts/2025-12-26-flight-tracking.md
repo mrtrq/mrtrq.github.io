@@ -1,6 +1,6 @@
 ---
 layout: post
-title: idea: flight count
+title: idea-flight count
 date: 2025-12-16 22:32:00
 description: what if you would not forget your flights
 tags: idea

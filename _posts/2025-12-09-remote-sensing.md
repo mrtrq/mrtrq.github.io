@@ -221,71 +221,10 @@ Different land cover types have unique spectral signatures - their reflectance p
 
 ---
 
-## Global Satellite Coverage
+<!-- ## Global Satellite Coverage
 
 Sentinel-2's twin satellites (2A and 2B) provide global coverage with a 5-day revisit time. Here's their coverage area:
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sentinel-2 Coverage Area",
-        "description": "Global coverage between 84°N and 56°S"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [[
-          [-180, 84], [180, 84], [180, -56], [-180, -56], [-180, 84]
-        ]]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Amazon Rainforest",
-        "description": "Critical monitoring area for deforestation"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [[
-          [-73, 5], [-48, 5], [-48, -18], [-73, -18], [-73, 5]
-        ]]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sahara Desert",
-        "description": "Desertification and dust storm monitoring"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [[
-          [-15, 30], [35, 30], [35, 15], [-15, 15], [-15, 30]
-        ]]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Greenland Ice Sheet",
-        "description": "Glacier retreat and ice mass loss monitoring"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [[
-          [-73, 83], [-12, 83], [-12, 60], [-73, 60], [-73, 83]
-        ]]
-      }
-    }
-  ]
-}
-```
-
----
+--- -->
 
 ## Getting Started with Remote Sensing
 
