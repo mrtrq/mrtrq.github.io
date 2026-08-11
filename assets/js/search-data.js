@@ -30,7 +30,106 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-land-cover-classification-with-machine-learning",
+        },{id: "post-membaca-menulis-mengubah",
+        
+          title: 'Membaca, Menulis, Mengubah <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@tarreq.maulana/membaca-menulis-mengubah-7c9b4ebb487b?source=rss-8ac9eaddcab2------2", "_blank");
+          
+        },
+      },{id: "post-hold-your-loved-ones",
+        
+          title: 'Hold Your Loved Ones <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@tarreq.maulana/hold-your-loved-ones-651e18191632?source=rss-8ac9eaddcab2------2", "_blank");
+          
+        },
+      },{id: "post-floating-with-no-bearing",
+        
+          title: 'Floating With No Bearing <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@tarreq.maulana/floating-with-no-bearing-26dc5e18203f?source=rss-8ac9eaddcab2------2", "_blank");
+          
+        },
+      },{id: "post-to-see-is-to-believe",
+        
+          title: 'To See is To Believe <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@tarreq.maulana/to-see-is-to-believe-57e2942cd44c?source=rss-8ac9eaddcab2------2", "_blank");
+          
+        },
+      },{id: "post-rebuilding",
+        
+          title: 'Rebuilding <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@tarreq.maulana/rebuilding-27253081f21c?source=rss-8ac9eaddcab2------2", "_blank");
+          
+        },
+      },{id: "post-melaju",
+        
+          title: 'Melaju. <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@tarreq.maulana/melaju-77971cb77405?source=rss-8ac9eaddcab2------2", "_blank");
+          
+        },
+      },{id: "post-salah-seorang-legenda",
+        
+          title: 'Salah Seorang Legenda <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@tarreq.maulana/salah-seorang-legenda-e61dd1b0da8c?source=rss-8ac9eaddcab2------2", "_blank");
+          
+        },
+      },{id: "post-legend",
+        
+          title: 'Legend <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@tarreq.maulana/legend-bee60d6eff0d?source=rss-8ac9eaddcab2------2", "_blank");
+          
+        },
+      },{id: "post-putar-balik",
+        
+          title: 'Putar Balik <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@tarreq.maulana/putar-balik-d0dad5b82bcb?source=rss-8ac9eaddcab2------2", "_blank");
+          
+        },
+      },{id: "post-land-cover-classification-with-machine-learning",
         
           title: "Land Cover Classification with Machine Learning",
         
@@ -85,114 +184,15 @@ ninja.data = [{
             window.location.href = "/blog/2025/remote-sensing/";
           
         },
-      },{id: "post-we-turn-our-heads-up-looking-upwards",
+      },{id: "post-attention-required-cloudflare",
         
-          title: 'We turn our heads up, looking upwards <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@tarreq.maulana/we-turn-our-heads-up-looking-upwards-0b77b0a1ff44?source=rss-8ac9eaddcab2------2", "_blank");
-          
-        },
-      },{id: "post-sophisticated-word",
-        
-          title: 'sophisticated word <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@tarreq.maulana/sophisticated-word-f9755f6ad2e4?source=rss-8ac9eaddcab2------2", "_blank");
-          
-        },
-      },{id: "post-hxh126",
-        
-          title: 'HxH126 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@tarreq.maulana/hxh126-3c8b5da8e083?source=rss-8ac9eaddcab2------2", "_blank");
-          
-        },
-      },{id: "post-radical-idea-about-writing",
-        
-          title: 'Radical Idea About Writing <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@tarreq.maulana/radical-idea-about-writing-2952eb72f9d8?source=rss-8ac9eaddcab2------2", "_blank");
-          
-        },
-      },{id: "post-challenge",
-        
-          title: 'Challenge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@tarreq.maulana/challenge-cf491919f81d?source=rss-8ac9eaddcab2------2", "_blank");
-          
-        },
-      },{id: "post-hiking-clarity",
-        
-          title: 'Hiking Clarity <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@tarreq.maulana/hiking-clarity-d0fe7b75bb9f?source=rss-8ac9eaddcab2------2", "_blank");
-          
-        },
-      },{id: "post-just-a-moment",
-        
-          title: 'Just a moment... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Attention Required! | Cloudflare <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
         handler: () => {
           
             window.open("https://medium.com/@tarreq.maulana/hiking-clarity-d0fe7b75bb9f", "_blank");
-          
-        },
-      },{id: "post-trying-to-write-again",
-        
-          title: 'Trying to Write Again <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@tarreq.maulana/trying-to-write-again-aca3feb717d6?source=rss-8ac9eaddcab2------2", "_blank");
-          
-        },
-      },{id: "post-certain",
-        
-          title: 'Certain <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@tarreq.maulana/certain-44f4e97e2fe7?source=rss-8ac9eaddcab2------2", "_blank");
-          
-        },
-      },{id: "post-sore",
-        
-          title: 'SoRe <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@tarreq.maulana/sore-29fcb8df35a5?source=rss-8ac9eaddcab2------2", "_blank");
           
         },
       },{id: "books-the-elegant-universe",
@@ -241,7 +241,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%75%68%61%6D%6D%61%64.%74%61%72%72%65%71@%75%69.%61%63.%69%64", "_blank");
+          window.open("mailto:%74%61%72%72%65%71.%6D%61%75%6C%61%6E%61@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
       id: 'light-theme',
