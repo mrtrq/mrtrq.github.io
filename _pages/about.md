@@ -25,7 +25,7 @@ latest_posts:
 ---
 Fresh graduate in Computer Science from the University of Indonesia with an interest in machine learning applications for remote sensing.
 
-My undergraduate thesis, supervised by [Dr. Laksmita Rahadianti](https://cs.ui.ac.id/en/personnel/laksmita-rahadianti/), compared different methods of super-resolution Sentinel-2 satellite imagery on estimating water quality parameters in in urban river area using regressive machine learning models. This research experience broaden my worldview as it was my first time working on the intersection of geospatial analysis, environmental monitoring, and computer science.
+My undergraduate thesis was done in group together with Alek Y., supervised by [Dr. Eng Laksmita Rahadianti](https://cs.ui.ac.id/en/personnel/laksmita-rahadianti/),[Dr. Eng Lia Sadita](https://cs.ui.ac.id/en/personnel/laksmita-rahadianti/), and [Aruni Yasmin](https://cs.ui.ac.id/personnel/aruni-yasmin-azizah/). We compared different methods of super-resolution Sentinel-2 satellite imagery on estimating water quality parameters in in urban river area using regressive machine learning models. This research experience broaden my worldview as it was my first time working on the intersection of geospatial analysis, environmental monitoring, and computer science.
 
 <!-- While I’m still learning the foundations, this project made me aspire to become a researcher who can bridge scientific rigor with social impact. -->
 I’ve been fortunate to grow through roles inside and outside the classroom. As President of BEM Fasilkom UI (2024), a 160 member student-led organization, I learned how like minded people coexist and how meaningful change often starts with empowering people. Through teaching Calculus I for three terms (Aug. 2022- Jan. 2024), I also learned the value of clarity—both in mathematical reasoning and in communication.
@@ -34,11 +34,13 @@ Other than my studies, you will find me photographing and stargazing.
 
 My **research interests** include:
 
+- (New) Technical AI safety and mechanistic interpretability, particularly understanding how post-training methods such as reinforcement learning affect a model’s ability to monitor and use information about its own internal computations. 
+
 - Remote sensing to monitor environmental insights from satellite imagery orbitting the Earth, namely Sentinel-2 and Landsat-8. The image of the Earth's surface area will give various relectance values on different wavelength which then can be derived into spectral indices.
 
 - Fine tuning machine learning models by using *in-situ* measurement data as ground truth to better estimate any indicators of interest given a satellite image, namely water quality parameters, soil conditions, presence of vegetation, and urban growth.
 
-Long term, I'd like to pursue graduate school and eventually contribute to research that advances environmental monitoring and supports data-driven decision-making in developing regions. I am fully aware I am still at the beginning, with much to learn and unlearn—but I’m committed to growing, exploring, and doing work that matters.
+ In the long term, I'd like to pursue graduate school and eventually contribute to research that advances environmental monitoring and supports data-driven decision-making in developing regions. I am fully aware I am still at the beginning, with much to learn and unlearn—but I’m committed to growing, exploring, and doing work that matters.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
